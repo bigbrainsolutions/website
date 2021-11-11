@@ -1,3 +1,5 @@
-# Big Brain Solutions
-Home Page
-< coming soon >
+# Things are are good at
+- networking
+- automation
+- not websites
+- not markdown
